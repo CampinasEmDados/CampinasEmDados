@@ -1,4 +1,4 @@
-🎲 Campinas em Dados é um projeto colaborativo criado para incentivar e organizar a produção de conhecimento sobre a cidade de Campinas. Nosso objetivo é ejstimular a comunidade, incluindo acadêmicos, estudantes, profissionais de dados e cidadãos em geral, a realizar análises e visualizações de dados sobre Campinas e região.
+🎲 Campinas em Dados é um projeto colaborativo criado para incentivar e organizar a produção de conhecimento sobre a cidade de Campinas. Nosso objetivo é estimular a comunidade, incluindo acadêmicos, estudantes, profissionais de dados e cidadãos em geral, a realizar análises e visualizações de dados sobre Campinas e região.
 
 Pilares do Projeto:
 
